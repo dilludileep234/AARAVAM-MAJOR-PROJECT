@@ -1,6 +1,6 @@
 # 🌟 Aaravam | Unified College Event Management System
 
-![Aaravam Logo](https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg)
+
 
 > **"Bridging the Gap Between Talent and Opportunity"**
 
@@ -132,7 +132,7 @@ Access the app at: `http://127.0.0.1:8000`
 
 | Home Page | Admin Dashboard |
 |---|---|
-| ![Placeholder: Home Page](https://via.placeholder.com/400x250?text=Aaravam+Home+Screen) | ![Placeholder: Dashboard](https://via.placeholder.com/400x250?text=Admin+Dashboard+Screen) |
+| (<img width="400" height="250" alt="Home" src="https://github.com/user-attachments/assets/d426ea3f-0002-4f98-b0a3-218b5d5cd8d9" />) |(<img width="400" height="250" alt="Admin" src="https://github.com/user-attachments/assets/0252b509-d8e6-4f56-9639-333cb9e56806" />) |
 
 ---
 
@@ -146,7 +146,7 @@ Access the app at: `http://127.0.0.1:8000`
 
 ## ✍️ Author Details
 
-- **Name:** [Your Name]
+- **Name:** DILLU DILEEP
 - **Project:** Aaravam Event Management System
 - **Year:** Final Year Diploma Project (2025-26)
 
