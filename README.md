@@ -132,7 +132,7 @@ Access the app at: `http://127.0.0.1:8000`
 
 | Home Page | Admin Dashboard |
 |---|---|
-| (<img width="400" height="250" alt="Home" src="https://github.com/user-attachments/assets/d426ea3f-0002-4f98-b0a3-218b5d5cd8d9" />) |(<img width="400" height="250" alt="Admin" src="https://github.com/user-attachments/assets/0252b509-d8e6-4f56-9639-333cb9e56806" />) |
+| <img width="400" height="250" alt="Home" src="https://github.com/user-attachments/assets/d426ea3f-0002-4f98-b0a3-218b5d5cd8d9" /> |<img width="400" height="250" alt="Admin" src="https://github.com/user-attachments/assets/0252b509-d8e6-4f56-9639-333cb9e56806" /> |
 
 ---
 
